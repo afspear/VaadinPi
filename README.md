@@ -1,6 +1,10 @@
 VaadinPi
 ==============
 
+This Very Simple project is intended to showcase a Vaadin app running on the Raspberry Pi using the Pi4J library. It was made using the  'vaadin-archetype-application' archetype https://vaadin.com/maven. The following boilerplate text probably applies:
+
+
+
 Template for a simple Vaadin application that only requires a Servlet 3.0 container to run.
 
 
